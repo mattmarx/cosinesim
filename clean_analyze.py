@@ -27,7 +27,7 @@ line_count = 0
 error_count = 0
 original = codecs.open(file_path, 'r', 'utf-8')
 
-string_dict_file = open('clean_twins_stringified_dict_new', 'w')
+string_dict_file = open('twins_stringified_dict_new', 'w')
 # create a string dictionary that will be filled
 string_dictionary = {}
 found = 0
