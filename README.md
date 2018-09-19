@@ -6,6 +6,8 @@
 
  *twins_stringified_dict_new is a text representation of a dictionary with abstract_id: abstract, created analyze.py
  
+1a. clean_analyze.py takes a non-inverted abstract file as an argument with ID:abstract (see twins_stringified as a sample input file; NOTE that this is the same as one of the OUTPUTS of analyze.py). be careful of abstracts with newlines! outputs clean_twins_stringified_dict_new (
+
 2.  bunch_real.py
 () bunch_real.py takes twins_stringified as an argument and creates a bunched file titled 'bunched' (no extension)
 
